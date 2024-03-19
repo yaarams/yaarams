@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="profile.svg" width="200px">
+
 -->
 
 <div align="center">
-
-#<img src="profile.svg" width="200px">
 
 # Yaara Cohen
 
