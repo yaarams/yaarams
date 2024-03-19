@@ -20,16 +20,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Yaara Cohen
-
-#### _Software Engineer_
-
-</div>
-
-## Personal Information
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1e88e5&logoColor=white)](https://linkedin.com/in/yaaraco) 
 [![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github&labelColor=1b1b1b&logoColor=white)](https://github.com/yaarams) 
 [![yaara4@gmail.com](https://img.shields.io/badge/-yaara4@gmail.com-c62828?style=for-the-badge&logo=gmail&labelColor=8e0000&logoColor=white)](mailto:yaara4@gmail.com) 
