@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 Versatile and driven software engineer with 13 years of extensive programming experience across a diverse range of technologies, showcasing a strong aptitude for rapidly aquiring new skills. Known for my meticulous approach and a fervent passion for continuous learning, I thrive on challenges and possess a deep commitment to expanding my expertise in various domains, including back-end systems and front-end design.
 
+<!--
 ## Skills
 
 <div align="center">
@@ -75,8 +76,11 @@ Versatile and driven software engineer with 13 years of extensive programming ex
 
 </div>
 
+
 ## Languages
 
 - 🇬🇧 English, _Fluent_
 - 🇪🇸 Spanish, _Fluent_
 - 🇮🇱 Hebrew, _Basic_
+
+-->
